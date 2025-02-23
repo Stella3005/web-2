@@ -1,0 +1,46 @@
+NAMA : Muhamad Buana Guntur
+NIM : 0110124129
+ROMBEL : SI11
+
+1. Jelaskan apa yang dimaksud dengan dokumen root?
+Dokumen root adalah direktori (folder) utama di server web tempat semua file situs web disimpan. Ketika seseorang mengunjungi  domain
+anda server web akan mencari file didalam direktori dokumen root ini untuk ditampilkan kepada pengunjung.
+
+2. Pada apache web server, apakah dokumen root harus terletak dalam direktori C:xampp\htdocs? jelaskan jawaban anda
+Tidak selalu, karena pada server web apache yang diinstall menggunakan xampp secara default dokumen root memang terletak didalam direktori
+tersebut.
+
+3. Jelaskan apa yang dimaksud dengan perintah git : init, clone, remote, add, commit, push, dan checkout.
+- git init = menginisialisasi sebuah direktori menjadi repository git baru.
+- git clone = menyalin sebuah repository git yang sudah ada dari lokasi jarak jauh.
+- git remote = mengelola koneksi ke repository jarak jauh.
+- git add = menambahkan perubahan pada working directory anda ke staging area.
+- git commit = menyimpan perubahan yang ada di staging area ke repository lokal anda.
+- git push = digunakan untuk mengirimkan/mengunggah commit dari repository lokal anda ke repository remote.
+- git checkout = digunakan untuk berpindah antar branch atau mengembalikan file ke versi sebelumnya.
+
+4. Jelaskan perbedaan antara GitHub dan GitLab
+GitHub dan GitLab adalah dua platform populer untuk version control menggunakan git, kolaborasi pengembangan perangkat lunak, dan
+DevOps. Perbedaannya ialah :
+Github :
+- model : mayoritas berbasis cloud, ada opsi enterprise untuk self-hosting
+- fokus utama : hosting repository kode, kolaboraasi open source
+- ci/cd : melalui github actions (fleksibel, perlu konfigurasi)
+- manajemen proyek : fitur dasar, integrasi dengan alat lain
+- komunitas sangat besar, banyak proyek populer
+- cocok untuk : proyek open source, kolaborasi publik, oemula
+Gitlab:
+- model : bisa cloud atau self-hosted atau kontrol penuh atas data
+- fokus utama : platform DevOps lengkap
+- ci/cd : terintegrasi kuat, mudah digunakan
+- manajemen proyek : lebih lengkap
+- komunitas : berkembang, fokus DevOps
+- cocok untuk : perusahaan, kontrol data, alur kerja DevOps yang kompleks
+
+5. Apa bedanya variabel user dengan variabel system
+Variabel user dan variabel sistem addalah dua jenis variabel lingkungan yang digunakan dalam sistem operasi. Perbedaan utama terletak 
+pada cakupan, akses, dan bagaimana mereka disimpan serta digunakan.
+
+6. apa persamaan variable system dengan variable constant
+persamaan variable system dengan variable constant ialah terletak pada peran mereka sebagai penyimpan nilai. Baik variable system maupun 
+variable constant digunakan untuk menyimpan suatu nilai yang dapat digunakan dalam program atau sistem.
