@@ -38,17 +38,17 @@
                 <tr>
                     <td>Skill</td>
                     <td>:</td>
-                    <td>CSS</td>
+                    <td>CSS, HTML, JavaScript</td>
                 </tr>
                 <tr>
                     <td>Skor Skill</td>
                     <td>:</td>
-                    <td>40</td>
+                    <td>100</td>
                 </tr>
                 <tr>
                     <td>Kategori Skill</td>
                     <td>:</td>
-                    <td>Kurang</td>
+                    <td>Baik</td>
                 </tr>
                 <tr>
                     <td>Email</td>
