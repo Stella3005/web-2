@@ -12,7 +12,7 @@
         </div>
         <div class="sb-sidenav-footer">
             <div class="small">Logged in access:</div>
-            Maula Fathan Gibran Lubis
+            Muhamad Buana Guntur
         </div>
     </nav>
 </div>
