@@ -40,7 +40,7 @@ $url = end($url);
         </div>
         <div class="sb-sidenav-footer">
             <div class="small">Logged in as:</div>
-            M. Buana Guntur
+            Muhamad Buana Guntur
         </div>
     </nav>
 </div>
