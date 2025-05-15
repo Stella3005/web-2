@@ -30,7 +30,7 @@
                             Dashboard
                         </div>
                         <div class="card-body">
-                            <h1>THIS IS A DASHBOARD PAGE</h1>
+                            <h1>Halo! Selamat datang di website saya, anda senang kami pun puas</h1>
                         </div>
                     </div>
                 </div>
